@@ -1,4 +1,4 @@
 snippets
 ========
 
-Just a few snippets.
+Just a few code snippets.
